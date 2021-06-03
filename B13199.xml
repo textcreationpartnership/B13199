@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties declaration to his subiects, concerning lawfull sports to be vsed</title>
+            <title>Proclamations. 1618-05-24</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13199</idno><idno type="EEBO-CITATION">99836505</idno>
+  <idno type="VID">178440</idno>
+  <idno type="EEBO-PROQUEST">2240941072</idno>
+  <idno type="STC">STC 9238.9</idno>
+  <idno type="STC">ESTC S100675</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99836505e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178440)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1686:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties declaration to his subiects, concerning lawfull sports to be vsed</title>
+                  <title>Proclamations. 1618-05-24</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[4], 9, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bonham Norton, and Iohn Bill, deputie printers for the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.D.C.XVIII. [1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Greenwich the foure and twentieth day of May, in the sixteenth yeere of our raigne ..</note>
+                  <note>Initial leaf contains large signature-mark "A" with ornament; last leaf contains a woodcut coat of arms.</note>
+                  <note>Identified as STC 8566 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sports --  Great Britain --  Law and legislation.</term>
+               <term type="topical_term">Sunday legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178440:1"/>
+            <p>THE KINGS MAIESTIES <hi>Declaration to His</hi> Subiects, <hi>CONCERNING</hi> lawfull Sports to be vsed.</p>
+            <p>LONDON Printed by BONHAM NORTON, and IOHN BILL, Deputie Printers for the Kings most Excellent Maiestie. M.DC.XVIII.</p>
+            <pb facs="tcp:178440:2"/>
+            <pb facs="tcp:178440:2"/>
+            <p>A</p>
+            <pb facs="tcp:178440:3"/>
+            <pb facs="tcp:178440:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:178440:4"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <pb n="1" facs="tcp:178440:4"/>
+            <head>By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas vpon Our</hi> returne the last yeere out of Scotland, Wee did publish Our plea<g ref="char:EOLhyphen"/>sure touching the re<g ref="char:EOLhyphen"/>creations of Our peo<g ref="char:EOLhyphen"/>ple in those parts vnder Our hand: For some causes Ʋs thereunto moouing, We haue thought good to command these Our directions then giuen in <hi>Lanca<g ref="char:EOLhyphen"/>shire</hi> with a few words thereunto ad<g ref="char:EOLhyphen"/>ded, and most appliable to these parts of Our Realmes, to be published to all Our Subiects.</p>
+            <p>
+               <hi>Whereas We did iustly in Our</hi> Progresse through <hi>Lancashire,</hi> re<g ref="char:EOLhyphen"/>buke
+<pb n="2" facs="tcp:178440:5"/>some Puritanes &amp; precise people, and tooke order that the like vnlaw<g ref="char:EOLhyphen"/>full cariage should not bee vsed by any of them hereafter, in the prohibiting and vnlawfull punishing of Our good people for vsing their lawfull Recrea<g ref="char:EOLhyphen"/>tions, and honest exercises vpon Sun<g ref="char:EOLhyphen"/>dayes and other Holy dayes, after the afternoone Sermon or Seruice: Wee now find that two sorts of people where<g ref="char:EOLhyphen"/>with that Countrey is much infested, (Wee meane Papists and Puritanes) haue maliciously traduced and calum<g ref="char:EOLhyphen"/>niated those Our iust and honourable proceedings. And therefore lest Our reputation might vpon the one side (though innocently) haue some asper<g ref="char:EOLhyphen"/>sion layd vpon it, and that vpon the o<g ref="char:EOLhyphen"/>ther part Our good people in that Coun<g ref="char:EOLhyphen"/>trey bee misled by the mistaking and misinterpretation of Our meaning: We
+<pb n="3" facs="tcp:178440:5"/>haue therefore thought good hereby to cleare and make Our pleasure to bee manifested to all Our good People in<g ref="char:EOLhyphen"/>those parts.</p>
+            <p>Jt is true that at Our first entry to this Crowne, and Kingdome, Wee were informed, and that too truely, that Our County of <hi>Lancashire</hi> abounded more in Popish Recusants then any Countie of England, and thus hath stil continued since to Our great regreet, with litle a<g ref="char:EOLhyphen"/>mendment, saue that now of late, in Our last riding through Our said Coun<g ref="char:EOLhyphen"/>ty, Wee find both by the report of the Judges, and of the Bishop of that dio<g ref="char:EOLhyphen"/>cesse that there is some amendment now daily beginning, which is no small con<g ref="char:EOLhyphen"/>tentment to Ʋs.</p>
+            <p>The report of this growing amend<g ref="char:EOLhyphen"/>ment amongst them, made Ʋs the more sory, when with Our owne Eares Wee
+<pb n="4" facs="tcp:178440:6"/>heard the generall complaint of Our people, that they were barred from all lawfull Recreation, and exercise vpon the Sundayes afternoone, after the ending of all Diuine Seruice, which cannot but produce two euils: The one, the hindering of the conuersion of many, whom their Priests will take occasion hereby to vexe, perswading them that no honest mirth or recreation is lawfull or tollerable in Our Religion, which cannot but breed a great discon<g ref="char:EOLhyphen"/>tentment in Our peoples hearts, especi<g ref="char:EOLhyphen"/>ally of such as are peraduenture vpon the point of turning; The other incon<g ref="char:EOLhyphen"/>uenience is, that this prohibition bar<g ref="char:EOLhyphen"/>reth the common and meaner sort of people from vsing such exercises as may make their bodies more able for Warre, when Wee or Our Successors shall haue occasion to vse them. And in place
+<pb n="5" facs="tcp:178440:6"/>thereof sets vp filthy tiplings and drun<g ref="char:EOLhyphen"/>kennesse, and breeds a number of idle and discontented speaches in their Ale<g ref="char:EOLhyphen"/>houses. For when shal the common peo<g ref="char:EOLhyphen"/>ple haue leaue to exercise, if not vpon the Sundayes and Holydayes, seeing they must apply their labour, and winne their liuing in all working dayes?</p>
+            <p>
+               <hi>Our</hi> expresse pleasure therefore is, that the Lawes of Our Kingdome, and Canons of Our Church bee aswell ob<g ref="char:EOLhyphen"/>serued in that County, as in all other places of this Our Kingdome. And on the other part, that no lawfull Re<g ref="char:EOLhyphen"/>creation shall bee barred to Our good People, which shall not tend to the breach of Our aforesaid Lawes, and Canons of Our Church: which to ex<g ref="char:EOLhyphen"/>presse more particularly, Our pleasure is, That the Bishop, and all other in<g ref="char:EOLhyphen"/>feriour Churchmen, and Churchwar<g ref="char:EOLhyphen"/>dens,
+<pb n="6" facs="tcp:178440:7"/>shall for their parts bee carefull and diligent, both to instruct the igno<g ref="char:EOLhyphen"/>rant, and cōuince &amp; reforme them that are misled in religion, presenting them that will not conforme themselues, but obstinately stand out to Our Iudges and Iustices: Whom We likewise command to put the Law in due execution against them.</p>
+            <p>
+               <hi>Our</hi> pleasure likewise is, That the Bishop of that Diocesse take the like straight order with all the Puritans and Precisians within the same, either constraining them to conforme them<g ref="char:EOLhyphen"/>selues, or to leaue the Countrey accor<g ref="char:EOLhyphen"/>ding to the Lawes of Our Kingdome, and Canons of Our Church, and so to strike equally on both hands, against the contemners of Our Authoritie, and ad<g ref="char:EOLhyphen"/>uersaries of Our Church. And as for Our good peoples lawfull Recreation,
+<pb n="7" facs="tcp:178440:7"/>Our pleasure likewise is, That after the end of Diuine Seruice, Our good people be not disturbed, letted, or dis<g ref="char:EOLhyphen"/>couraged from any lawfull Recreation; Such as dauncing, either men or wo<g ref="char:EOLhyphen"/>men, Archerie for men, leaping, vaul<g ref="char:EOLhyphen"/>ting, or any other such harmelesse Re<g ref="char:EOLhyphen"/>creation, nor from hauing of May-Games, Whitson Ales, and Morris<g ref="char:EOLhyphen"/>dances, and the setting vp of May<g ref="char:EOLhyphen"/>poles and other sports therewith vsed, so as the same be had in due and conue<g ref="char:EOLhyphen"/>nient time, without impediment or neg<g ref="char:EOLhyphen"/>lect of diuine Seruice: And that wo<g ref="char:EOLhyphen"/>men shall haue leaue to carry rushes to the Church for the decoring of it, accor<g ref="char:EOLhyphen"/>ding to their old custome. But withall We doe here accompt still as prohibited all vnlawfull games to bee vsed vpon Sundayes onely, as Beare and Bull<g ref="char:EOLhyphen"/>baitings, Jnterludes, and at all times in
+<pb n="8" facs="tcp:178440:8"/>the meaner sort of People by Law pro<g ref="char:EOLhyphen"/>hibited, Bowling.</p>
+            <p>And likewise Wee barre from this benefite and libertie, all such knowne Recusants, either men or Women, as will abstaine from comming to Church or diuine Seruice, being therefore vn<g ref="char:EOLhyphen"/>worthy of any lawfull recreation after the said Seruice, that will not first come to the Church and serue <hi>GOD:</hi> Pro<g ref="char:EOLhyphen"/>hibiting in like sort the said Recreati<g ref="char:EOLhyphen"/>ons to any that, though cōforme in Re<g ref="char:EOLhyphen"/>ligion, are not present in the Church at the Seruice of <hi>GOD,</hi> before their going to the said Recreations. <hi>Our</hi> plea<g ref="char:EOLhyphen"/>sure likewise is, That they to whom it belongeth in Office, shall present and sharply punish all such as in abuse of this Our libertie, will vse these exercises before the ends of all diuine Seruices for that day. And We likewise straightly
+<pb n="9" facs="tcp:178440:8"/>command, that euery person shall resort to his owne Parish Church to heare di<g ref="char:EOLhyphen"/>uine Seruice, and each Parish by it selfe to vse the said Recreation after diuine Seruice. Prohibiting likewise any Offensiue weapons to be caried or vsed in the said times of Recreations And Our pleasure is, That this Our Decla<g ref="char:EOLhyphen"/>ration shalbe published by order frō the Bishop of the Diocesse, through all the Parish Churches, and that both Our Iudges of Our Circuit, and Our Iustices of Our Peace be informed thereof.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Mannour of Greenwich </hi>
+                  <date>
+                     <hi>the foure and twentieth day of May, in the sixteenth yeere of Our Raigne of England, France and Ireland, and of Scotland the one and fiftieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+            <pb facs="tcp:178440:9"/>
+            <pb facs="tcp:178440:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
